@@ -2,6 +2,18 @@
 
 In this exercise you will build a form in which you can simulate a creation of an account to some web application. The purpose of this exercise is to practise on using different event listeners _( several are needed )_ but also to create a basic application that is comprised of HTML, CSS and JavaScript.
 
+You are more then welcome to work together on this one. It's important that you challenge yourself and try out new things. 
+
+Here are some usefull links and tips in order to complete the assignment.
+
+- [List of all the available events in JS](https://www.w3schools.com/jsref/dom_obj_event.asp)
+- [List of DOM manipulating methods on elements](https://www.w3schools.com/jsref/dom_obj_all.asp)
+- [querySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp)
+- [classList, and how to use it](https://www.w3schools.com/jsref/prop_element_classlist.asp)
+- [array methods in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- Events you might use:
+  - "click", "input", "focus", "focusin", "focusout", "blur"
+
 The form should have to following content and functionlity.
 
 1. Five inputs must be included and they should reside within a `<form>`. `name`and `username` which must be of type text. One input for `email` that is of type email and two inputs for `password` and `confirm password`. They should of course be of type password.
